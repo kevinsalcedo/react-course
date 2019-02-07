@@ -29,3 +29,8 @@ very simple JSX
 * async external api calls to Unsplash API for stock images using axios
 * using Grid CSS to create a fluid grid of photos
 * using Refs to pass along DOM element characteristics
+
+---
+
+## videos
+* youtube-esque video player using youtube free api
