@@ -27,3 +27,4 @@ very simple JSX
 ## pics
 * first version is to search any term and return image results matching term
 * async external api calls to Unsplash API for stock images using axios
+* using Grid CSS to create a fluid grid of photos
