@@ -43,3 +43,11 @@ very simple JSX
 - used Semantic UI grid system for layout
 - automatically displays first search term result
 - used callbacks to update App component with video selection
+
+---
+
+## songs
+
+- show a hard coded list of songs
+- next to each song is a select button
+- clicking the select button shows song details on the right
