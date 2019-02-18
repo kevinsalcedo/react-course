@@ -51,3 +51,8 @@ very simple JSX
 - show a hard coded list of songs
 - next to each song is a select button
 - clicking the select button shows song details on the right
+
+## blog
+
+- redux-thunk
+- blog post list using an external api
