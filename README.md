@@ -56,3 +56,4 @@ very simple JSX
 
 - redux-thunk
 - blog post list using an external api
+- memoization for action creators through lodash chaining
