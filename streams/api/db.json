@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "Kev's Stream",
+      "description": "u know what it is",
+      "userId": "110779057953340397288",
+      "id": 3
+    },
+    {
+      "title": "Kev's Stream",
+      "description": "u know what it is",
+      "userId": "110779057953340397288",
+      "id": 4
+    },
+    {
+      "title": "asldkfj",
+      "description": "something is wrong",
+      "userId": "110779057953340397288",
+      "id": 5
+    }
+  ]
+}
