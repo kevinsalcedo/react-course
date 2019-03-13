@@ -1,13 +1,13 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "test",
+      "title": "My first stream",
+      "description": "Yup",
       "id": 1
     },
     {
-      "title": "test",
-      "description": "test",
+      "title": "My second stream",
+      "description": "Getting the hang of this",
       "id": 2
     },
     {
@@ -17,16 +17,16 @@
       "id": 3
     },
     {
-      "title": "Kev's Stream",
-      "description": "u know what it is",
+      "title": "Unexpected behavior",
+      "description": "Didn't expect that",
       "userId": "110779057953340397288",
-      "id": 4
+      "id": 6
     },
     {
-      "title": "asldkfj",
-      "description": "something is wrong",
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page",
       "userId": "110779057953340397288",
-      "id": 5
+      "id": 7
     }
   ]
 }
