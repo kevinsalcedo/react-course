@@ -57,3 +57,14 @@ very simple JSX
 - redux-thunk
 - blog post list using an external api
 - memoization for action creators through lodash chaining
+
+
+## streams 
+
+- creating a complete CRUD application
+- implementing simple RTMP server
+- streaming site
+- Google OAuth login 
+- create streams when logged in, edit and delete
+- viewing streams
+- simplified twitch.tv 
